@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on [Time Tidy](https://github.com/4GeeksAcademy/Final-Project-scheduler-v2)
 
-- 🌱 I’m currently learning **how to create a discord bot**
-
 - 💬 Ask me about **Java, Javascript, React**
 
 - 📄 Know about my experiences [https://flowcv.com/resume/c30fl3bp3s74](https://flowcv.com/resume/c30fl3bp3s74)
